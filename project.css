@@ -1,0 +1,9 @@
+.card{
+    height: 500px;
+    width: 400;
+    box-shadow:5px 5px 10px black;
+    text-align: center;
+}body{
+    display:flex;
+    justify-content: center;
+}
